@@ -67,8 +67,10 @@
       "quantity": 2
     },
     {
-      "name": "Hermit Crabs",
-      "quantity": 5
+      "name": "New",
+      "quantity": 1,
+      "names": [],
+      "photo": ""
     }
   ],
   "corals": [
