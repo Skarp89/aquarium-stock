@@ -2,7 +2,12 @@
   "fish": [
     {
       "name": "Blue/Green Chromis",
-      "quantity": 1
+      "quantity": 3,
+      "type": "invertebrates",
+      "names": [
+        "Testing"
+      ],
+      "photo": ""
     },
     {
       "name": "Bristletooth Tang",
