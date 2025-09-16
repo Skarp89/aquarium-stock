@@ -10,5 +10,10 @@
       "quantity": 9
     }
   ],
-  "corals": []
+  "corals": [
+    {
+      "name": "Laureen Arendt",
+      "quantity": 9
+    }
+  ]
 }
