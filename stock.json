@@ -35,7 +35,12 @@
     },
     {
       "name": "Pyramid Butterflyfish - Cleo",
-      "quantity": 1
+      "quantity": 1,
+      "type": "fish",
+      "names": [
+        "Cleo"
+      ],
+      "photo": ""
     },
     {
       "name": "Pyramid Butterflyfish - Lux",
