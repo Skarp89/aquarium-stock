@@ -2,10 +2,10 @@
   "fish": [
     {
       "name": "Blue/Green Chromis",
-      "quantity": 3,
-      "type": "invertebrates",
+      "quantity": 1,
+      "type": "fish",
       "names": [
-        "Testing"
+        ""
       ],
       "photo": ""
     },
