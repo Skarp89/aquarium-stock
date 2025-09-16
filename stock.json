@@ -53,7 +53,12 @@
     },
     {
       "name": "Pyramid Butterflyfish - Ra",
-      "quantity": 1
+      "quantity": 1,
+      "type": "fish",
+      "names": [
+        "Ra"
+      ],
+      "photo": ""
     },
     {
       "name": "Red Mandarin Fish",
