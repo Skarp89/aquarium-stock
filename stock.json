@@ -66,6 +66,12 @@
     {
       "name": "Cleaner Shrimp",
       "quantity": 2
+    },
+    {
+      "name": "Harlequin Shrimp",
+      "quantity": 2,
+      "names": [],
+      "photo": ""
     }
   ],
   "corals": [
