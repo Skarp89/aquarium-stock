@@ -11,7 +11,12 @@
     },
     {
       "name": "Bristletooth Tang",
-      "quantity": 1
+      "quantity": 1,
+      "type": "fish",
+      "names": [
+        "Splinter"
+      ],
+      "photo": ""
     },
     {
       "name": "Copperband Butterflyfish",
