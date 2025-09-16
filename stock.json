@@ -24,7 +24,12 @@
     },
     {
       "name": "Leopard Wrasse",
-      "quantity": 1
+      "quantity": 1,
+      "type": "fish",
+      "names": [
+        "Leo"
+      ],
+      "photo": ""
     },
     {
       "name": "Mimic Tang",
