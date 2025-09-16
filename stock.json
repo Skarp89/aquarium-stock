@@ -1,19 +1,7 @@
 {
   "fish": [
     {
-      "name": "Disbar Anthias",
-      "quantity": 4
-    },
-    {
-      "name": "Copperband Butterflyfish",
-      "quantity": 1
-    },
-    {
-      "name": "Yellow Tang",
-      "quantity": 1
-    },
-    {
-      "name": "Mimic Tang",
+      "name": "Blue/Green Chromis",
       "quantity": 1
     },
     {
@@ -21,31 +9,27 @@
       "quantity": 1
     },
     {
-      "name": "Zebra Bar Goby",
+      "name": "Copperband Butterflyfish",
       "quantity": 1
     },
     {
-      "name": "Red Mandarin Fish",
-      "quantity": 1
-    },
-    {
-      "name": "Blue/Green Chromis",
-      "quantity": 1
-    },
-    {
-      "name": "Redline Wrasse",
-      "quantity": 1
+      "name": "Disbar Anthias",
+      "quantity": 4
     },
     {
       "name": "Leopard Wrasse",
       "quantity": 1
     },
     {
-      "name": "Pyramid Butterflyfish - Cleo",
+      "name": "Mimic Tang",
       "quantity": 1
     },
     {
-      "name": "Pyramid Butterflyfish - Ra",
+      "name": "Ocelleris Clownfish",
+      "quantity": 2
+    },
+    {
+      "name": "Pyramid Butterflyfish - Cleo",
       "quantity": 1
     },
     {
@@ -53,8 +37,24 @@
       "quantity": 1
     },
     {
-      "name": "Ocelleris Clownfish",
-      "quantity": 2
+      "name": "Pyramid Butterflyfish - Ra",
+      "quantity": 1
+    },
+    {
+      "name": "Red Mandarin Fish",
+      "quantity": 1
+    },
+    {
+      "name": "Redline Wrasse",
+      "quantity": 1
+    },
+    {
+      "name": "Yellow Tang",
+      "quantity": 1
+    },
+    {
+      "name": "Zebra Bar Goby",
+      "quantity": 1
     }
   ],
   "invertebrates": [
@@ -65,55 +65,15 @@
     {
       "name": "Harlequin Shrimp",
       "quantity": 2
+    },
+    {
+      "name": "Test",
+      "quantity": 1
     }
   ],
   "corals": [
     {
-      "name": "Bubble Tip Anemone",
-      "quantity": 10
-    },
-    {
-      "name": "Frogspawn Coral",
-      "quantity": 1
-    },
-    {
-      "name": "Xenia Coral",
-      "quantity": 1
-    },
-    {
-      "name": "Scroll Coral",
-      "quantity": 1
-    },
-    {
-      "name": "Montipora Digitata - Red",
-      "quantity": 1
-    },
-    {
-      "name": "Montipora Digitata - Green",
-      "quantity": 1
-    },
-    {
-      "name": "Red Goniopora",
-      "quantity": 1
-    },
-    {
-      "name": "Orange Chalice",
-      "quantity": 1
-    },
-    {
-      "name": "Zoanthid",
-      "quantity": 1
-    },
-    {
-      "name": "Green Star Polyp",
-      "quantity": 1
-    },
-    {
-      "name": "Fire Red Plasma Blasto Coral",
-      "quantity": 1
-    },
-    {
-      "name": "Yellow Hammer Coral",
+      "name": "Acropora",
       "quantity": 1
     },
     {
@@ -121,11 +81,55 @@
       "quantity": 1
     },
     {
-      "name": "Acropora",
+      "name": "Bubble Tip Anemone",
+      "quantity": 10
+    },
+    {
+      "name": "Fire Red Plasma Blasto Coral",
+      "quantity": 1
+    },
+    {
+      "name": "Frogspawn Coral",
+      "quantity": 1
+    },
+    {
+      "name": "Green Star Polyp",
+      "quantity": 1
+    },
+    {
+      "name": "Montipora Digitata - Green",
+      "quantity": 1
+    },
+    {
+      "name": "Montipora Digitata - Red",
+      "quantity": 1
+    },
+    {
+      "name": "Orange Chalice",
+      "quantity": 1
+    },
+    {
+      "name": "Red Goniopora",
       "quantity": 1
     },
     {
       "name": "Ritteri Anemone",
+      "quantity": 1
+    },
+    {
+      "name": "Scroll Coral",
+      "quantity": 1
+    },
+    {
+      "name": "Xenia Coral",
+      "quantity": 1
+    },
+    {
+      "name": "Yellow Hammer Coral",
+      "quantity": 1
+    },
+    {
+      "name": "Zoanthid",
       "quantity": 1
     }
   ]
