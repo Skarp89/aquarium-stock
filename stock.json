@@ -69,7 +69,10 @@
     },
     {
       "name": "Harlequin Shrimp",
-      "quantity": 2
+      "quantity": 2,
+      "type": "invertebrates",
+      "names": [],
+      "photo": ""
     }
   ],
   "corals": [
